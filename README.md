@@ -1,7 +1,7 @@
 # Recipe Data Collection and API Development:
 
 ## Objective: 
-The JSON file contains recipes, and the data is parsed, stored in a database, and an API to expose the data id developed. The API allows for pagination, sorting, and searching the recipe records based on various 
+The JSON file contains recipes, and the data is parsed, stored in a database, and an API to expose the data is developed. The API allows for pagination, sorting, and searching the recipe records based on various 
 filters. 
 Task Overview: 
 1. Parse the JSON Data: Read and parse the provided JSON file that contains recipe data. 
